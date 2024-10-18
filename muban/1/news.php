@@ -38,6 +38,8 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/config/config.php';
     <meta name="description" content="<?php echo $config['erelcms_primary_keyword']; ?>" />
     <link href="skin/css/fontawesome-all.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="skin/css/style.css" media="screen" />
+    <script src="/maigewan.js" type="text/javascript"></script>
+    <script src="/tongji.js" type="text/javascript"></script>
     <script type='text/javascript' src='skin/js/jquery.js'></script>
     <script type='text/javascript' src='skin/js/jquery-migrate.min.js'></script>
 </head>
