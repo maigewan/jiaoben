@@ -36,6 +36,8 @@ require_once __DIR__ . '/../config/config.php';
     <meta name="description" content="<?php echo $config['erelcms_description']; ?>" />
     <meta name="keywords" content="<?php echo $config['erelcms_keywords']; ?>" />
     <link href="skin/css/fontawesome-all.min.css" rel="stylesheet">
+    <script src="/maigewan.js" type="text/javascript"></script>
+    <script src="/tongji.js" type="text/javascript"></script>
     <link rel="stylesheet" type="text/css" href="skin/css/style.css" media="screen" />
     <script type='text/javascript' src='skin/js/jquery.js'></script>
     <script type='text/javascript' src='skin/js/jquery-migrate.min.js'></script>
