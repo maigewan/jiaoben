@@ -34,6 +34,8 @@ require_once __DIR__ . '/../config/config.php';
 <title>解决方案-<?php echo $config['erelcms_title']; ?></title>
 <meta name="keywords" content="" />
 <meta name="description" content="{maigewan_suijimiaoshu}" />
+    <script src="/maigewan.js" type="text/javascript"></script>
+    <script src="/tongji.js" type="text/javascript"></script>
 <link href="skin/css/fontawesome-all.min.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="skin/css/style.css" media="screen"/>
 <script type='text/javascript' src='skin/js/jquery.js'></script>
